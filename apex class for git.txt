@@ -1,0 +1,7 @@
+pulic class classname{
+
+public static void method1(para1, para2){
+//comment 1
+	}
+
+}
